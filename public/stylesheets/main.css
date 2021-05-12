@@ -1,0 +1,31 @@
+body{
+    background-color: #050405 ;
+    color: white;
+
+}
+
+#delete-form {
+    display: inline;
+}
+
+.radio-inline{
+    margin-right: 1rem;
+}
+
+.card{
+    background-color: rgb(0, 0, 0);
+}
+
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+.jumbotron{
+    background-color: rgb(245, 245, 245);
+}
+
+h1{
+    color: black;
+}
